@@ -1,0 +1,10 @@
+3 6
+2 2 115 115 250 250
+100 100 100 100 100 100
+1
+../input/tree.pgm ../output/Outputtree_ edgenative 50 20 100 3
+../input/wheel.pgm ../output/Outputwheel_ edgeangle 10 45 90 3
+../input/tree.pgm ../output/Outputtree_ cvcanny 50  150
+../input/slope.pgm ../output/Outputslope_ histequ
+../input/tree.pgm ../output/Outputtree_ otsualgo
+../input/slope.pgm ../output/Outputslope_ histotsu

@@ -1,0 +1,9 @@
+﻿  iptool.cpp
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptool.cpp(16,14): warning C4101: 'next_pch': unreferenced local variable
+  utility.cpp
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptool.cpp(16,8): warning C4101: 'pch': unreferenced local variable
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptools\utility\utility.cpp(157,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptools\utility\utility.cpp(164,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptools\utility\utility.cpp(327,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  iptool.vcxproj -> D:\Downloads\Compressed\DIPCODE_VC\iptool\x64\Debug\iptool.exe
