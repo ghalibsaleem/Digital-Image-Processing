@@ -1,0 +1,3 @@
+﻿  iptool.cpp
+D:\Downloads\Compressed\DIPCODE_VC_OpenCV_dft\iptool\iptool\iptool.cpp(158,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  iptool.vcxproj -> D:\Downloads\Compressed\DIPCODE_VC_OpenCV_dft\iptool\x64\Debug\iptool.exe
