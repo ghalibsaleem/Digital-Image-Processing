@@ -1,0 +1,7 @@
+3 3
+2 2 100 100 200 200
+50 50 50 50 50 50
+1
+../input/baboon.pgm ../output/baboon_binar.pgm roiBinarize 100 150 200 150 200 250
+../input/baboon.pgm ../output/baboon_smoothing.pgm smoothingROI
+../input/11.ppm ../output/colorThr.ppm colorbinarize 170 109 73 50
