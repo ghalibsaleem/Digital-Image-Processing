@@ -1,0 +1,12 @@
+3 4
+2 2 200 200 400 400
+150 150 150 150 100 100
+1
+../input/baboon.pgm ../output/baboon_binar.pgm optimalThreshold 5
+../input/slope.pgm ../output/slope_hitogram.pgm histogramStreching 100 200 100 200 100 200
+../output/slope_Orignal_ROI1.pgm ../output/slope_New_ROI1.pgm
+../output/slope_Orignal_ROI2.pgm ../output/slope_New_ROI2.pgm
+../output/slope_Orignal_ROI3.pgm ../output/slope_New_ROI3.pgm
+../input/slope.pgm ../output/slope_combine.pgm combine 5 ../output/slope_combine_bg.pgm 50 50 400 700
+../output/slope_combine_fg.pgm ../output/slope_combine_bght.pgm ../output/slope_combinefght.pgm
+../input/pen.ppm ../output/pen_histogram.ppm hsiexp 30 30 200 400 1 1 1

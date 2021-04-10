@@ -1,0 +1,11 @@
+﻿  utility.cpp
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptools\utility\utility.cpp(457,34): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptools\utility\utility.cpp(457,55): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptools\utility\utility.cpp(457,76): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptools\utility\utility.cpp(488,34): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptools\utility\utility.cpp(488,55): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptools\utility\utility.cpp(488,76): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptools\utility\utility.cpp(518,32): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptools\utility\utility.cpp(519,32): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Downloads\Compressed\DIPCODE_VC\iptool\iptool\iptools\utility\utility.cpp(520,32): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  iptool.vcxproj -> D:\Downloads\Compressed\DIPCODE_VC\iptool\x64\Debug\iptool.exe
